@@ -7,6 +7,7 @@ Bundle-SymbolicName: famix.m3x.tests; singleton:=true
 Bundle-ActivationPolicy: lazy
 Require-Bundle: famix.m3x,
  famix.m3x.ui,
+ FAMIX,
  org.eclipse.core.runtime,
  org.eclipse.xtext.junit4,
  org.eclipse.ui.workbench;resolution:=optional
